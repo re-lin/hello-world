@@ -1,10 +1,9 @@
 # hello-world
-A test repo
 
 Hey fellows,
 
 I basically have no idea of coding, whatsoever. But I'm trying to teach myself. -Let's see where it goes. 
-First milestone to be achieved. Build a dashboard app based on dashing that will show some insights of our JIRA pipeline and of our website.
+Currently I spent quite some nights, trying my luck at home-automation mostly driven by homeassistant. 
 
 Cheers
 Re
